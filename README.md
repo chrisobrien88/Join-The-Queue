@@ -1,11 +1,11 @@
 # JoinTheQ
-## 👉[Live Deomo](https://join-the-queue-client.onrender.com/)  
-## 👉 [Video Deomo](https://youtu.be/mngmGD7k8Y8)  
+## 👉 [Live Demo](https://join-the-queue-client.onrender.com/)  
+## 👉 [Video Demo](https://youtu.be/mngmGD7k8Y8)  
 
 ## Final project at SALT by Team Apollo: 
 ### [Jakub](https://github.com/JakubRaczkowski)   
 ### [Shoaib](https://github.com/mshoaibtalha)   
-### [Chris](https://github.com/chrisobrien88) 
+### [Me (chris)](https://github.com/chrisobrien88) 
 ### [Nikki](https://github.com/nikkizhou)
 
 
